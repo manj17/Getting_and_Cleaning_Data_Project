@@ -1,10 +1,10 @@
 The detail below corresponds with the data within the tidyDataResults.txt file
 
-#Identifiers:
+Identifiers:
 1. "subjects" - refers to the individual measured
 2. "activity" - refers to the type of action measured
 
-#Activities:
+Activities:
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS

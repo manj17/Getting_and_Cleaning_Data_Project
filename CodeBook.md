@@ -1,10 +1,19 @@
 The detail below corresponds with the data within the tidyDataResults.txt file
 
-Identifiers:
+#Identifiers:
 1. "subjects" - refers to the individual measured
 2. "activity" - refers to the type of action measured
 
-Full Listing of Identifiers and Measures
+#Activities:
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+
+
+#Full Listing of Identifiers and Measures:
  [1] "subjects"                        "activity"                        "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
  [5] "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"                "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"               
  [9] "tGravityAcc-mean()-X"            "tGravityAcc-mean()-Y"            "tGravityAcc-mean()-Z"            "tGravityAcc-std()-X"            
